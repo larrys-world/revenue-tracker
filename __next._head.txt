@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/revenue-tracker/_next/static/chunks/2f236954d6a65e12.js"],"ViewportBoundary"]
+3:I[97367,["/revenue-tracker/_next/static/chunks/2f236954d6a65e12.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"McKWOIUrjma-1dWZUUSiw","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Revenue Tracker - Monitor Your Earnings"}],["$","meta","1",{"name":"description","content":"Track daily, weekly, and monthly revenue from your online tools and services. Monitor progress toward revenue goals."}],["$","meta","2",{"name":"keywords","content":"revenue tracker, earnings dashboard, income monitor, revenue analytics, business metrics"}]]}]}]}],null]}],"loading":null,"isPartial":false}
